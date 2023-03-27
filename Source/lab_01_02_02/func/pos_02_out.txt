@@ -1,0 +1,2 @@
+Enter coordinates:
+Perimeter: 0.000000

@@ -1,0 +1,2 @@
+Enter time in seconds:
+Formated time: 0 0 0

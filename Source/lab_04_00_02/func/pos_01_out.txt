@@ -1,0 +1,3 @@
+Result:mama 1
+papa 1
+pa 1

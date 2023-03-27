@@ -1,0 +1,2 @@
+Enter coodinates of the triangle and the dot:
+0

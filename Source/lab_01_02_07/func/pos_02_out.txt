@@ -1,0 +1,2 @@
+Enter the argument and an accuracy:
+1.526071 1.526071 0.000000 0.000000

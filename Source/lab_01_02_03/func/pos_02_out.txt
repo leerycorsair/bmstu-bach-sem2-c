@@ -1,0 +1,2 @@
+Enter resistances:
+General resistance: 0.098039

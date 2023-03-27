@@ -1,0 +1,2 @@
+Enter the string:
+Lower count = 11
